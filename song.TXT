@@ -1,10 +1,14 @@
 sword and spear
 wall of shields
 standing strong
+<<<<<<< HEAD
 on this their chosen battle field
 
 first commit
 second commit
+=======
+on this their chosen battlefield
+>>>>>>> main
 
 
 
